@@ -1,4 +1,4 @@
-# Prediction-using-Supervised-ML
+# TheSparksFoundation GripsJuly21
 TASK 1: 
 
 ● Predicting the percentage of an student based on the no. of study hours.
